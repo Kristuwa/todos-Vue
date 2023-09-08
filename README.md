@@ -12,4 +12,4 @@ This project is an application where you can create your list of tasks that you 
 
 - Vue 3
 
-# Create by Khrystyna Krasovska
+# Create by Kristina Krasovskaya
